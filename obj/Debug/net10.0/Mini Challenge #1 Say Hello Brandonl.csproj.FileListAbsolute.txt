@@ -1,0 +1,14 @@
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.AssemblyInfoInputs.cache
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.AssemblyInfo.cs
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.csproj.CoreCompileInputs.cache
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\bin\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.exe
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\bin\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.deps.json
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\bin\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.runtimeconfig.json
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\bin\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.dll
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\bin\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.pdb
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.dll
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\refint\Mini Challenge #1 Say Hello Brandonl.dll
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.pdb
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\Mini Challenge #1 Say Hello Brandonl.genruntimeconfig.cache
+C:\Users\jodi\Desktop\CSA_Combine\Homework\Mini Challenge #1 Say Hello Brandonl\obj\Debug\net10.0\ref\Mini Challenge #1 Say Hello Brandonl.dll
